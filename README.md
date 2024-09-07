@@ -5,11 +5,13 @@
 ## Table of Contents
 - [Project Overview](#projectoverview)
 - [Dataset](#dataset)
+- [Preprocessing and Augmentation](#preprocessing-and-augmentation)
 - [Model Architecture](#modelarchitecture)
-- [Requirements](#requirements)
-- [Usage](#usage)
 - [Training](#training)
+- [Evaluation](#evaluation)
+- [Usage](#usage)
 - [Conclusion](#conclusion)
+
 
 ## Project Overview
 
