@@ -3,14 +3,14 @@
 # Water_Segmentation
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
-- [License](#license)
+[Project Overview](#project-overview)
+[Dataset](#dataset)
+[Model Architecture](#model-architecture)
+[Training](#training)
+[Requirements](#requirements)
+[Usage](#usage)
+[Conclusion](#conclusion)
+[License](#license)
 
 
 ## Project Overview
