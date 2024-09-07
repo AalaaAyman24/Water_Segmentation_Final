@@ -2,7 +2,16 @@
 
 # Water_Segmentation
 
-## Overview
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Model Architecture](#model-architecture)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Training](#training)
+- [Conclusion](#conclusion)
+
+## Project Overview
 
 This repository provides an implementation of a U-Net model for image segmentation tasks using TensorFlow. The U-Net architecture is well-suited for pixel-level image segmentation, making it ideal for various image analysis applications.
 
@@ -52,7 +61,7 @@ The model is trained with:
 
 Training progress is visualized through accuracy and loss plots.
 
-## Results
+## Conclusion
 
 The model's performance is evaluated based on training and validation accuracy and loss. Results can be visualized to assess the effectiveness of the model.
 
