@@ -3,9 +3,9 @@
 # Water_Segmentation
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#projectoverview)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
+- [Model Architecture](#modelarchitecture)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Training](#training)
