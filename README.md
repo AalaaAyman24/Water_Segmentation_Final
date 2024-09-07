@@ -4,7 +4,7 @@
 
 ## Table of Contents
 [Project Overview](#project-overview)
-[Dataset](#dataset)
+ [Dataset](#dataset)
 [Model Architecture](#model-architecture)
 [Training](#training)
 [Requirements](#requirements)
