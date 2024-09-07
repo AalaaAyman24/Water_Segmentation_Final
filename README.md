@@ -5,10 +5,9 @@
 ## Table of Contents
 - [Project Overview](#projectoverview)
 - [Dataset](#dataset)
-- [Preprocessing and Augmentation](#preprocessing-and-augmentation)
 - [Model Architecture](#modelarchitecture)
 - [Training](#training)
-- [Evaluation](#evaluation)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
 
@@ -35,6 +34,16 @@ The U-Net model features:
 
 The model requires input images of size (128, 128, 12).
 
+## Training
+
+The model is trained with:
+
+- **Optimizer**: Adam with exponential decay.
+- **Loss Function**: Binary cross-entropy.
+- **Metrics**: Accuracy.
+
+Training progress is visualized through accuracy and loss plots.
+
 ## Requirements
 
 Ensure that you have the following Python packages installed:
@@ -53,15 +62,6 @@ Ensure that you have the following Python packages installed:
 3. **Model Training**: Train the U-Net model using the prepared dataset.
 4. **Evaluation**: Assess the model's performance using accuracy and loss metrics.
 
-## Training
-
-The model is trained with:
-
-- **Optimizer**: Adam with exponential decay.
-- **Loss Function**: Binary cross-entropy.
-- **Metrics**: Accuracy.
-
-Training progress is visualized through accuracy and loss plots.
 
 ## Conclusion
 
