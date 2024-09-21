@@ -1,4 +1,4 @@
-# Water_Segmentation_Final
+# Water Segmentation Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
