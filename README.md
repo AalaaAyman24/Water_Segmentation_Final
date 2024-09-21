@@ -1,5 +1,3 @@
----
-
 # Water Segmentation
 
 ## Table of Contents
