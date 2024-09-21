@@ -65,7 +65,7 @@ The Flask application loads the U-Net model and processes uploaded images for wa
 
 ### How to Use
 1. Run the Flask app:
-   ```
+   ```bash
    python app.py
    ```
 2. Navigate to `http://127.0.0.1:5000/` in your browser.
@@ -74,8 +74,6 @@ The Flask application loads the U-Net model and processes uploaded images for wa
 
 ### Deployment Image
 ![App Image](https://github.com/AalaaAyman24/Water_Segmentation/blob/main/Water_Segmentation_App.png)
-
-
 
 ## Conclusion
 The model's performance is evaluated based on training and validation accuracy and loss. Results can be visualized to assess the effectiveness of the model.
